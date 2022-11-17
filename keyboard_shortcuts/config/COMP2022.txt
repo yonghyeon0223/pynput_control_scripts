@@ -1,0 +1,6 @@
+conj- : ∧
+disj- : ∨
+neg- : ¬
+imp- : →
+biimp- : ↔
+xor- : ⊕
